@@ -1,0 +1,2 @@
+# javapractice
+practiced all question
